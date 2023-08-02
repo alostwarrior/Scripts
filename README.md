@@ -1,4 +1,4 @@
-#FFUF Fuzzing Script with Wordlist Selection
+# FFUF Fuzzing Script with Wordlist Selection
 This script simplifies the utilization of FFUF (Fuzz Faster U Fool) for diverse fuzzing tasks, including directory and parameter fuzzing, as well as searching for specific file extensions. FFUF is a potent and versatile fuzzing tool that aids in identifying potential vulnerabilities or concealed files within web applications.
 
 Usage Instructions
